@@ -371,7 +371,6 @@
     }
     
     .tileContent {
-      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../../../Background.png');
       background-size: cover;
       background-repeat: no-repeat;
       height: 100%;
@@ -405,7 +404,7 @@
         width: inherit;
         position: absolute;
         display: block;
-        left: 0;
+        left: 0;        
       }
 
       .Above-Fold {
@@ -432,24 +431,20 @@
         left: 25vw;
         text-decoration: solid;
     }
-    /********************Announcement Home Page *********************/
-
       .grid-container {
-        width: 98vw;
+        height: 100vh;
+        width: 105vw;
         left: 0;
         z-index: 0;
         display: flex;
         flex-direction: column;
-        bottom: 0px !important;
       }
-
       .tile {
         left: 0;
         height: 100vh;
         width: 100%;
         display: flex;
         flex-direction: row;
-        margin-bottom: 1%;
       }
       .tileHeading {
         display: flex;
