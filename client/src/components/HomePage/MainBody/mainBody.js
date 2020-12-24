@@ -1,6 +1,5 @@
 import React from 'react';
 import './mainBody.css'
-import DisplayTiles from './DisplayTiles/displayTiles'
 import Header from '../../Shared/Header(fixed)/headerFixed'
 import TopMenu from '../../Shared/topMenu/index'
 
@@ -25,7 +24,6 @@ class MainBody extends React.Component {
 								</div>
 						</div>
 					</div>
-				<DisplayTiles />
 				</div>
 			</main>
 		);

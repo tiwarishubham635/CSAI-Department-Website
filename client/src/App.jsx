@@ -18,7 +18,7 @@ import Announcement from './components/Announcements/announcement';
 import Opportunity from './components/Opportunites/opportunity'
 import Society from './components/Society/society';
 import MainBody from './components/HomePage/MainBody/mainBody';
-
+import Creators from './components/Creators/creators'
 
 const ForumAndNavbar = () => {
         return(
@@ -54,7 +54,7 @@ const App =({location,isAuthenticated}) => (
             <GuestRoute location={location} path="/announcement" exact component={Announcement} />
             <GuestRoute location={location} path="/opportunity" exact component={Opportunity} />
             <GuestRoute location={location} path="/society" exact component={Society} />
-
+            <GuestRoute location={location} path="/creators" exact component={Creators}/>
             {/* <UserRoute location={location} path="/home" exact component={MainBody} />
             <UserRoute location={location} path="/about" exact component={About} />
             <UserRoute location={location} path="/faculty" exact component={Faculty} />

@@ -34,68 +34,8 @@
     top: 40%;
     left: 25vw;
     text-decoration: solid;
-}
-/********************Announcement Home Page *********************/
+ }
 
-  .grid-container {
-    left: 0;
-    z-index: 0;
-    display: flex;
-    flex-direction: column;
-  }
-
-  .tile {
-    left: 0;
-    height: 90vw;
-    width: 100vw;
-    display: flex;
-    flex-direction: row;
-    margin-bottom: 1%;
-  }
-  .tileHeading {
-    display: flex;
-    flex-direction: column;
-    background-color: #053C5E;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    width: 33%;
-    color: white;
-  }
-  .tileHeading h2 {
-    width: 100%;
-    padding-top: -5rem;
-    text-align: center;
-
-  }
-  
-  hr {
-    width: 70%;
-    display: block;
-  }
-  
-  .tileContent {
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../../../Background.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%;
-    width: 67%;
-    color: white;
-  }
-  
-  .tileContent > .tileContent-text {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    line-height: 150%;
-  
-  }
-  
-  li {
-    padding: 3%;
-  }
 }
   
   /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -134,66 +74,6 @@
       left: 25vw;
       text-decoration: solid;
   }
-  /********************Announcement Home Page *********************/
-
-    .grid-container {
-      left: 0;
-      z-index: 0;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .tile {
-      left: 0;
-      height: 37vw;
-      width: 100vw;
-      display: flex;
-      flex-direction: row;
-      margin-bottom: 1%;
-    }
-    .tileHeading {
-      display: flex;
-      flex-direction: column;
-      background-color: #053C5E;
-      justify-content: center;
-      align-items: center;
-      height: 100%;
-      width: 33%;
-      color: white;
-    }
-    .tileHeading h2 {
-      width: 100%;
-      padding: auto;
-      text-align: center;
-    }
-    
-    hr {
-      width: 70%;
-      display: block;
-    }
-    
-    .tileContent {
-      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../../../Background.png');
-      background-size: cover;
-      background-repeat: no-repeat;
-      height: 100%;
-      width: 67%;
-      color: white;
-    }
-    
-    .tileContent > .tileContent-text {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      line-height: 150%;
-    
-    }
-    
-    li {
-      padding: 3%;
-    }
    
   }
   
@@ -233,66 +113,6 @@
       left: 25vw;
       text-decoration: solid;
   }
-  /********************Announcement Home Page *********************/
-
-    .grid-container {
-      left: 0;
-      z-index: 0;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .tile {
-      left: 0;
-      height: 37vw;
-      width: 100vw;
-      display: flex;
-      flex-direction: row;
-      margin-bottom: 1%;
-    }
-    .tileHeading {
-      display: flex;
-      flex-direction: column;
-      background-color: #053C5E;
-      justify-content: center;
-      align-items: center;
-      height: 100%;
-      width: 33%;
-      color: white;
-    }
-    .tileHeading h2 {
-      width: 100%;
-      padding: auto;
-      text-align: center;
-    }
-    
-    hr {
-      width: 70%;
-      display: block;
-    }
-    
-    .tileContent {
-      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../../../Background.png');
-      background-size: cover;
-      background-repeat: no-repeat;
-      height: 100%;
-      width: 67%;
-      color: white;
-    }
-    
-    .tileContent > .tileContent-text {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      line-height: 150%;
-    
-    }
-    
-    li {
-      padding: 3%;
-    }
   
   }
   
@@ -332,66 +152,6 @@
       left: 25vw;
       text-decoration: solid;
   }
-  /********************Announcement Home Page *********************/
-
-    .grid-container {
-      left: 0;
-      z-index: 0;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .tile {
-      left: 0;
-      height: 37vw;
-      width: 100vw;
-      display: flex;
-      flex-direction: row;
-      margin-bottom: 1%;
-    }
-    .tileHeading {
-      display: flex;
-      flex-direction: column;
-      background-color: #053C5E;
-      justify-content: center;
-      align-items: center;
-      height: 100%;
-      width: 33%;
-      color: white;
-    }
-    .tileHeading h2 {
-      width: 100%;
-      padding: auto;
-      text-align: center;
-    }
-    
-    hr {
-      width: 70%;
-      display: block;
-    }
-    
-    .tileContent {
-      background-size: cover;
-      background-repeat: no-repeat;
-      height: 100%;
-      width: 67%;
-      color: white;
-    }
-    
-    .tileContent > .tileContent-text {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      line-height: 150%;
-    
-    }
-    
-    li {
-      padding: 3%;
-    }
-   
   }
   
   /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -431,68 +191,7 @@
         left: 25vw;
         text-decoration: solid;
     }
-      .grid-container {
-        height: 100vh;
-        width: 105vw;
-        left: 0;
-        z-index: 0;
-        display: flex;
-        flex-direction: column;
-      }
-      .tile {
-        left: 0;
-        height: 100vh;
-        width: 100%;
-        display: flex;
-        flex-direction: row;
-      }
-      .tileHeading {
-        display: flex;
-        flex-direction: column;
-        background-color: #053C5E;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        width: 30%;
-        color: white;
-      }
-      .tileHeading h2 {
-        width: 100%;
-        padding: auto;
-        text-align: center;
-      }
-      
-      hr {
-        width: 70%;
-        display: block;
-      }
-      
-      .tileContent {
-        background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../../../Background.png');
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 100%;
-        width: 67%;
-        color: white;
-      }
-      
-      .tileContent > .tileContent-text {
-        width: 100%;
-        height: 100%;
-        display: inline-flex;
-        justify-content: center;
-        align-items: center;
-        line-height: 250%;
-      
-      }
-      
-      li {
-        width: max-content;
-        padding: 15% 10%;
-        list-style-type: none;
-        font-size: x-large;
-      }
-      
+
   }
   
   

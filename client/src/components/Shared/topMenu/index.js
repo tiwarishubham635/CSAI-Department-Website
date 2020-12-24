@@ -57,6 +57,9 @@ class TopMenu extends Component {
                         <NavLink to='/society'>
                             <Item text='Society'/>
                         </NavLink>
+                        <NavLink to = '/creators'>
+                            <Item text='Creators'/>
+                        </NavLink>
 
                         </div>
                         <div className= 'right'>
