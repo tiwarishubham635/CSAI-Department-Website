@@ -18,6 +18,11 @@
             b. client
     2. Use "npm start" to run the development server  
 
+# Contributers and Creators
+    1. Ritesh Kumar ([www.github.com/ritesh055])
+    2. Yash Sethia ([])
+
+
 
 
 
