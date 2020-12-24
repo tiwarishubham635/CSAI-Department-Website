@@ -33,10 +33,11 @@ def scrape():
     json_object = json.dumps(circulars)  # converts list to a json object
 
     # Writing to json file
-    with open("announcements.json", "w") as outfile:
+    with open("client/src/components/Announcements/Data/announcements.json", "w") as outfile:
         outfile.write(json_object)
 
 
 while True:
     scrape()
+    print("Running Again")
     time.sleep(300)
