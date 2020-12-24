@@ -11,7 +11,7 @@ class MainBody extends React.Component {
 	}
 	render() {
 		return (
-			<main>
+			<div>
 				<Header/>
 				<TopMenu/>
 				<div className="Main-Content">
@@ -25,7 +25,7 @@ class MainBody extends React.Component {
 						</div>
 					</div>
 				</div>
-			</main>
+			</div>
 		);
 	}
 }
