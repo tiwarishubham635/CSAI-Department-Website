@@ -13,11 +13,11 @@ function Tile() {
 
             <div className="creatorsTileContent">
                 <div className="creatorsTileContent-text">
-                    <h3>Yash Sethia</h3> 
-                    <h3>Ritesh Kumar</h3> 
-                    <h3>Shubham</h3> 
-                    <h3>Pranay Kothari </h3>
-                    <h3>Ashwani Tanwar</h3> 
+                    <h2>Yash Sethia</h2> 
+                    <h2>Ritesh Kumar</h2> 
+                    <h2>Shubham</h2> 
+                    <h2>Pranay Kothari </h2>
+                    <h2>Ashwani Tanwar</h2> 
 	         	</div>
             </div>
         </div>

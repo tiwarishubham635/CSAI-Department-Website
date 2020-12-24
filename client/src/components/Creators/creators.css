@@ -287,6 +287,8 @@
         overflow: wrap;
         display: flex;
         flex-direction: column;
+        text-align: center;
+        vertical-align: middle;
     }
     .subtitle{
         font-size: large;
