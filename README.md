@@ -11,14 +11,28 @@
  # Pre-requisites to run the repo on localhost
     1. MongoDB
     2. Node
-
- # Snapshots
-   ![Screenshot](Snapshots/Homepage.jpg)
  # To run the repository on the system:
     1. Install node_modules via "npm install" in 2 folders repsectively.
             a. Base Folder
             b. client
     2. Use "npm start" to run the development server  
+
+ # Snapshots
+   ![Screenshot](Snapshots/Homepage.jpg)
+   ![Screenshot](Snapshots/About.jpg)
+   ![Screenshot](Snapshots/Announcements.jpg)
+   ![Screenshot](Snapshots/Faculty.jpg)
+   ![Screenshot](Snapshots/Opportunites.jpg)
+   ![Screenshot](Snapshots/Societies.jpg)
+   ![Screenshot](Snapshots/Creators.jpg)
+   ![Screenshot](Snapshots/Forum4.jpg)
+   ![Screenshot](Snapshots/Forum1.jpg)
+   ![Screenshot](Snapshots/Forum2.jpg)
+   ![Screenshot](Snapshots/Forum3.jpg)
+   ![Screenshot](Snapshots/Homepage.jpg)
+   ![Screenshot](Snapshots/Homepage.jpg)
+   
+
 
 
 
