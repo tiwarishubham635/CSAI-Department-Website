@@ -12,6 +12,8 @@
     1. MongoDB
     2. Node
 
+ # Snapshots
+   ![Screenshot](Snapshots/Homepage.png)
  # To run the repository on the system:
     1. Install node_modules via "npm install" in 2 folders repsectively.
             a. Base Folder
