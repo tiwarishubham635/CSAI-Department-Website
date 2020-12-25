@@ -19,17 +19,29 @@
 
  # Snapshots
    ![Screenshot](Snapshots/Homepage.jpg)
+
    ![Screenshot](Snapshots/About.jpg)
+
    ![Screenshot](Snapshots/Announcements.jpg)
+   
    ![Screenshot](Snapshots/Faculty.jpg)
+   
    ![Screenshot](Snapshots/Opportunites.jpg)
+   
    ![Screenshot](Snapshots/Societies.jpg)
+   
    ![Screenshot](Snapshots/Creators.jpg)
+   
    ![Screenshot](Snapshots/Forum4.jpg)
+   
    ![Screenshot](Snapshots/Forum1.jpg)
+   
    ![Screenshot](Snapshots/Forum2.jpg)
+   
    ![Screenshot](Snapshots/Forum3.jpg)
+   
    ![Screenshot](Snapshots/Homepage.jpg)
+   
    ![Screenshot](Snapshots/Homepage.jpg)
    
 
