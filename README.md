@@ -17,7 +17,7 @@
             b. client
     2. Use "npm start" to run the development server  
 
- # Snapshots
+ # Snapshots of the Website
    ![Screenshot](Snapshots/Homepage.jpg)
 
    ![Screenshot](Snapshots/About.jpg)
