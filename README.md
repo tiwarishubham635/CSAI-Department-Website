@@ -12,10 +12,11 @@
     1. MongoDB
     2. Node
  # To run the repository on the system:
-    1. Install node_modules via "npm install" in 2 folders repsectively.
+    1. Clone the repository using "git clone https://github.com/CSAIDept/MERN-App.git"
+    2. Install node_modules via "npm install" in 2 folders repsectively.
             a. Base Folder
             b. client
-    2. Use "npm start" to run the development server  
+    3. Use "npm start" to run the development server  
 
  # Snapshots of the Website
    ![Screenshot](Snapshots/Homepage.jpg)
