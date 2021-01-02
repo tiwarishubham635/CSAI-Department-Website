@@ -34,7 +34,7 @@
    3. Use "npm start" to run the development server  
 
 
- # Snapshots of the Website
+ ## Snapshots of the Website
  * Home Page
 
    ![Screenshot](Snapshots/Homepage.jpg)
