@@ -4,7 +4,7 @@
  ## Demo
  https://csai-dept-forum.herokuapp.com
 
- # Features
+ ## Features
  It caters to the basic needs of a student. It includes the following features:
   1. About - Basic info about the CSE Department including the courses and specialisations offered.
   2. Announcements - Regularly updated IMS notices relevant to the CSE Department.
