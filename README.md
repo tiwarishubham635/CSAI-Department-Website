@@ -35,7 +35,7 @@
 
 
  ## Snapshots of the Website
- * Home Page
+ * # Home Page
 
    ![Screenshot](Snapshots/Homepage.jpg)
 
