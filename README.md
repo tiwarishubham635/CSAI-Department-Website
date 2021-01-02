@@ -26,7 +26,7 @@
    2. Node
       
       
- # To run the repository on the system:
+ ## To run the repository on the system:
    1. Clone the repository using "git clone https://github.com/tiwarishubham635/CSAI-Department-Website.git"
    2. Install node_modules via "npm install" in 2 folders repsectively.
     a. Base Folder
