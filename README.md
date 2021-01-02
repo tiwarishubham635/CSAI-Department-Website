@@ -14,7 +14,7 @@
   6. Forum - An interactive forum to provide seamless interaction between students of all years thereby promoting a better environment on campus.
 
 
- # This Project is made using MERN Stack:
+ ## This Project is made using MERN Stack:
    1. MongoDB
    2. Express
    3. React
