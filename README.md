@@ -21,7 +21,7 @@
    4. Node
 
 
- # Pre-requisites to run the repo on localhost
+ ## Pre-requisites to run the repo on localhost
    1. MongoDB
    2. Node
       
