@@ -39,31 +39,31 @@
 
    ![Screenshot](Snapshots/Homepage.jpg)
 
-* About Page
+* ### About Page
 
    ![Screenshot](Snapshots/About.jpg)
    
-* Announcements Page   
+* ### Announcements Page   
 
    ![Screenshot](Snapshots/Announcements.jpg)
    
-* Faculty Page
+* ### Faculty Page
    
    ![Screenshot](Snapshots/Faculty.jpg)
    
-* Opportunities Page
+* ### Opportunities Page
    
    ![Screenshot](Snapshots/Opportunites.jpg)
    
-* Societies Page
+* ### Societies Page
    
    ![Screenshot](Snapshots/Societies.jpg)
    
-* Creators Page
+* ### Creators Page
    
    ![Screenshot](Snapshots/Creators.jpg)
    
-* Forum
+* ### Forum
    
    ![Screenshot](Snapshots/Forum4.jpg)
    
