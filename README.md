@@ -1,5 +1,6 @@
  # CSAI Department Website
- * The project aims to build a website for the CSAI Department of NSUT
+ The project aims to build a website for the CSAI Department of NSUT.
+ ###
     ![Screenshot](Snapshots/Homepage.jpg)
 
  ## Demo
