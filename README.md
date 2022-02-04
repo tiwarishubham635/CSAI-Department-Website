@@ -1,7 +1,7 @@
  # CSAI Department Website
   <p>The project aims to build a website for the CSAI Department of NSUT.</p>
   <br/>
- ![Screenshot](Snapshots/Homepage.jpg)
+  ![Screenshot](Snapshots/Homepage.jpg)
  
  ## Demo
  https://csai-dept-forum.herokuapp.com
